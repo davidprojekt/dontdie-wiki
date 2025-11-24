@@ -24,6 +24,7 @@ This guide is structured like a video game leveling system. You don't fight the 
 ## Why Open Source?
 
 Biology is complex, but the instructions shouldn't be. By hosting this on GitHub, we ensure that:
+
 1.  **It evolves:** As science changes, our protocols change.
 2.  **It’s unbiased:** No one is trying to sell you a specific pill here.
 3.  **It’s collaborative:** Thousands of brains are better than one.

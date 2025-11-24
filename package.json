@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "build": "mkdocs build",
-    "deploy": "wrangler pages deploy ./site"
+    "deploy": "mkdocs build && wrangler pages deploy ./site"
   },
   "author": "",
   "license": "ISC",
