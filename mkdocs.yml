@@ -1,0 +1,30 @@
+site_name: DontDie Wiki
+site_url: https://dontdie.wiki
+repo_url: https://github.com/davidprojekt/dontdie-wiki
+repo_name: GitHub
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: readthedocs
+
+edit_uri: edit/main/docs/
+
+nav:
+  - index.md
+  - contributing.md
+  - manifesto.md
+  - Sleep:
+    - The Most Powerful Longevity Drug: sleep/index.md
+    - sleep/duration.md
+    - sleep/quality.md
+    - sleep/lifestyle.md
+    - sleep/tracking.md
+    - sleep/troubleshooting.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+

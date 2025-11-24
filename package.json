@@ -1,0 +1,14 @@
+{
+  "name": "dontdie-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "mkdocs build",
+    "deploy": "wrangler pages deploy ./site"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.50.0"
+  }
+}
